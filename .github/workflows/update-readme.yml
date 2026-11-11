@@ -40,15 +40,27 @@ jobs:
           git commit -am "chore(readme): actualizar actividad"
           git push
 
-  snake:
+  assets:
     runs-on: ubuntu-latest
     steps:
+      # El checkout va primero: limpia el workspace y borraría dist/
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
+
+      - name: Generar tarjetas de estadísticas
+        run: python scripts/render_cards.py dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Publicar en la rama output
         uses: crazy-max/ghaction-github-pages@v4

@@ -82,8 +82,14 @@ agénticas como Claude Code y Codex para orquestar subagentes y revisar código.
 ### 📊 Números
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YoshiLoL0526&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoshiLoL0526&layout=compact&hide_border=true&theme=tokyonight" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YoshiLoL0526/YoshiLoL0526/output/stats-dark.svg" />
+    <img width="420" alt="Estadísticas de GitHub" src="https://raw.githubusercontent.com/YoshiLoL0526/YoshiLoL0526/output/stats.svg" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YoshiLoL0526/YoshiLoL0526/output/top-langs-dark.svg" />
+    <img width="420" alt="Lenguajes más usados" src="https://raw.githubusercontent.com/YoshiLoL0526/YoshiLoL0526/output/top-langs.svg" />
+  </picture>
 </p>
 
 <p align="center">
@@ -93,4 +99,4 @@ agénticas como Claude Code y Codex para orquestar subagentes y revisar código.
   </picture>
 </p>
 
-<p align="center"><sub>Las secciones de repos y actividad se actualizan solas cada 6 horas vía GitHub Actions 🤖</sub></p>
+<p align="center"><sub>Repos, actividad y estadísticas se actualizan solos cada 6 horas vía GitHub Actions 🤖</sub></p>
