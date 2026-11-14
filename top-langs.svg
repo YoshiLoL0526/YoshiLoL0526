@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="180" viewBox="0 0 420 180" role="img" aria-label="Lenguajes más usados">
+  <title>Lenguajes más usados</title>
+  <style>
+    text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+    .title { font-size: 17px; font-weight: 600; fill: #0f6e74; }
+    .label { font-size: 13.5px; fill: #59636e; }
+    .value { font-size: 14px; font-weight: 600; fill: #1f2328; }
+    .fade { opacity: 0; animation: fade .5s ease-out forwards; }
+    @keyframes fade { to { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .fade { animation: none; opacity: 1; } }
+  </style>
+  <rect x="0.5" y="0.5" width="419" height="179" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+  <text x="24" y="36" class="title">Lenguajes más usados</text>
+  <clipPath id="bar"><rect x="24" y="54" width="372" height="10" rx="5"/></clipPath>
+  <rect x="24" y="54" width="372" height="10" rx="5" fill="#eaeef2"/>
+  <g clip-path="url(#bar)">
+    <rect x="24.00" y="54" width="253.74" height="10" fill="#3572A5"/>
+    <rect x="277.24" y="54" width="48.96" height="10" fill="#3178c6"/>
+    <rect x="325.70" y="54" width="44.78" height="10" fill="#dea584"/>
+    <rect x="369.98" y="54" width="17.29" height="10" fill="#f1e05a"/>
+    <rect x="386.77" y="54" width="7.70" height="10" fill="#ff5a03"/>
+    <rect x="393.97" y="54" width="2.53" height="10" fill="#663399"/>
+  </g>
+  <g class="fade" style="animation-delay:0ms"><circle cx="29.0" cy="91.5" r="5" fill="#3572A5"/><text x="42.0" y="96" class="label">Python</text><text x="194.0" y="96" class="value" text-anchor="end">67.7%</text></g>
+  <g class="fade" style="animation-delay:70ms"><circle cx="215.0" cy="91.5" r="5" fill="#3178c6"/><text x="228.0" y="96" class="label">TypeScript</text><text x="380.0" y="96" class="value" text-anchor="end">13.0%</text></g>
+  <g class="fade" style="animation-delay:140ms"><circle cx="29.0" cy="117.5" r="5" fill="#dea584"/><text x="42.0" y="122" class="label">Rust</text><text x="194.0" y="122" class="value" text-anchor="end">11.8%</text></g>
+  <g class="fade" style="animation-delay:210ms"><circle cx="215.0" cy="117.5" r="5" fill="#f1e05a"/><text x="228.0" y="122" class="label">JavaScript</text><text x="380.0" y="122" class="value" text-anchor="end">4.5%</text></g>
+  <g class="fade" style="animation-delay:280ms"><circle cx="29.0" cy="143.5" r="5" fill="#ff5a03"/><text x="42.0" y="148" class="label">Astro</text><text x="194.0" y="148" class="value" text-anchor="end">1.9%</text></g>
+  <g class="fade" style="animation-delay:350ms"><circle cx="215.0" cy="143.5" r="5" fill="#663399"/><text x="228.0" y="148" class="label">CSS</text><text x="380.0" y="148" class="value" text-anchor="end">0.5%</text></g>
+</svg>
