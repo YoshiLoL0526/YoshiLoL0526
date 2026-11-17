@@ -62,21 +62,21 @@ agénticas como Claude Code y Codex para orquestar subagentes y revisar código.
 ### 🔥 En lo que trabajo últimamente
 
 <!-- REPOS:START -->
+- **[planify](https://github.com/YoshiLoL0526/planify)** `TypeScript · ⭐ 0`
 - **[pi-toolkit](https://github.com/YoshiLoL0526/pi-toolkit)** `TypeScript · ⭐ 0`
 - **[vaelgrim-website](https://github.com/YoshiLoL0526/vaelgrim-website)** `TypeScript · ⭐ 0`
 - **[my-portfolio](https://github.com/YoshiLoL0526/my-portfolio)** `Astro · ⭐ 0` — Personal portfolio of Raidel Martínez Santos — trilingual (ES/EN/PT) static site built with Astro, TypeScript and Tailwind CSS. Content collections, View Transitions, command palette and auto-generated PDF CVs.
 - **[screen-recorder](https://github.com/YoshiLoL0526/screen-recorder)** `Python · ⭐ 0` — Aplicación de escritorio para grabar la pantalla y editar el resultado sin salir de la app. Toda la interfaz está construida con aurora-ui.
-- **[aurora](https://github.com/YoshiLoL0526/aurora)** `Python · ⭐ 5` — UI de escritorio declarativa y reactiva para Python, con núcleo nativo en Rust. Layout flexbox (Taffy), render con Skia, animaciones, temas, canvas y gráficos de millones de puntos.
 <!-- REPOS:END -->
 
 ### ⚡ Actividad reciente
 
 <!-- ACTIVITY:START -->
+- 🎯 Abrió el PR [#1](https://github.com/YoshiLoL0526/planify/pull/1) en [YoshiLoL0526/planify](https://github.com/YoshiLoL0526/planify)
 - 🔨 Hizo push a [YoshiLoL0526/my-portfolio](https://github.com/YoshiLoL0526/my-portfolio)
 - 🔨 Hizo push a [YoshiLoL0526/YoshiLoL0526](https://github.com/YoshiLoL0526/YoshiLoL0526)
 - 🔨 Hizo push a [YoshiLoL0526/pi-toolkit](https://github.com/YoshiLoL0526/pi-toolkit)
 - 🔨 Hizo push a [YoshiLoL0526/screen-recorder](https://github.com/YoshiLoL0526/screen-recorder)
-- 🔨 Hizo push a [YoshiLoL0526/aurora](https://github.com/YoshiLoL0526/aurora)
 <!-- ACTIVITY:END -->
 
 ### 📊 Números
