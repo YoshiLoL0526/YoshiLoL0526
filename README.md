@@ -62,9 +62,9 @@ agénticas como Claude Code y Codex para orquestar subagentes y revisar código.
 ### 🔥 En lo que trabajo últimamente
 
 <!-- REPOS:START -->
+- **[pi-toolkit](https://github.com/YoshiLoL0526/pi-toolkit)** `TypeScript · ⭐ 0`
 - **[vaelgrim-website](https://github.com/YoshiLoL0526/vaelgrim-website)** `TypeScript · ⭐ 0`
 - **[planify](https://github.com/YoshiLoL0526/planify)** `TypeScript · ⭐ 0`
-- **[pi-toolkit](https://github.com/YoshiLoL0526/pi-toolkit)** `TypeScript · ⭐ 0`
 - **[my-portfolio](https://github.com/YoshiLoL0526/my-portfolio)** `Astro · ⭐ 0` — Personal portfolio of Raidel Martínez Santos — trilingual (ES/EN/PT) static site built with Astro, TypeScript and Tailwind CSS. Content collections, View Transitions, command palette and auto-generated PDF CVs.
 - **[screen-recorder](https://github.com/YoshiLoL0526/screen-recorder)** `Python · ⭐ 0` — Aplicación de escritorio para grabar la pantalla y editar el resultado sin salir de la app. Toda la interfaz está construida con aurora-ui.
 <!-- REPOS:END -->
